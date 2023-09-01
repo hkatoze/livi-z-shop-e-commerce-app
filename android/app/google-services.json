@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "76585128717",
+    "project_id": "livi-z-boutique",
+    "storage_bucket": "livi-z-boutique.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76585128717:android:fa8056cb7cdb52bf619644",
+        "android_client_info": {
+          "package_name": "com.example.liviz_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76585128717-sttgreu28jj7ht1ndrunf5ef28nbjemf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEAcyv-V-p7bryxR22KkOOaijMFVwuV18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76585128717-sttgreu28jj7ht1ndrunf5ef28nbjemf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
