@@ -16,4 +16,4 @@
 "Livi-Z Shop" simplifie le shopping en ligne en offrant une navigation intuitive et un processus d'achat transparent.
 
 🎁 **Démo**  
-Découvrez le UI de "Livi-Z Shop" en téléchargeant l'APK directement [ici](lien-de-l'apk) .
+Découvrez le UI de "Livi-Z Shop" en téléchargeant l'APK directement [ici](https://1drv.ms/u/s!AuLsqIDZd3ZliiaSV1uk0EW-TK2F?e=5A3vqJ) .
